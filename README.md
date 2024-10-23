@@ -1,3 +1,3 @@
-# Portfolio_Projects
+# Econometrics_Term_Paper
 
-Repository that contains all relevant portfolio projects and materials for potential employers to view.
+This is a test
