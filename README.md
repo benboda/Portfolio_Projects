@@ -1,3 +1,3 @@
-# Econometrics_Term_Paper
+# Portfolio_Projects
 
-This is a test
+Repository containing some of my relevant personal projects for potential employers.
